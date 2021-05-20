@@ -1,0 +1,12 @@
+Package: statisticsplaybook
+Type: Package
+Title: 슬기로운 통계생활 R 테마
+Version: 0.1.0
+Authors@R: c(
+    person("Issac", "Lee", role = c("aut", "cre"), email = "statisticsplaybook@gmail.com")
+    )
+Maintainer: Issac Lee <statisticsplaybook@gmail.com>
+Description: Custom theme for statistics playbook Youtube channel.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
