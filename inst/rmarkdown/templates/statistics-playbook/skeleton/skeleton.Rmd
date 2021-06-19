@@ -25,6 +25,8 @@ output:
 ```{r setup, include = FALSE}
 library(knitr)
 library(tidyverse)
+library(xaringanExtra)
+xaringanExtra::use_panelset()
 # set default options
 opts_chunk$set(dpi = 300)
 ```
